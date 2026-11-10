@@ -1,0 +1,6 @@
+{
+  "name": "KuroAnime - Unlimited Anime Streaming",
+  "description": "Stream unlimited anime series and latest episodes connected to GogoAnime with multi-server playback, fast search, episode directory, and personal watchlist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
